@@ -1,9 +1,9 @@
 # Python Debugging Assistant Prompt
 
-**Author**: Shashwat Vikram Singh
-**Email**: shashwatvikramsingh8@gmail.com  
+**Author**: Shashwat Vikram Singh <br>
+**Email**: shashwatvikramsingh8@gmail.com  <br>
 **Submission Date**: September 2, 2025  
-**Repository**: https://github.com/shashwat-vikram-singh/python-debugging-promp
+**Repository**: [https://github.com/shashwat-vikram-singh/python-debugging-promp](https://github.com/shashwat-vikram-singh/python-debugging-promp)
 **Purpose**: Submission for Python Screening Task 2 by FOSSEE
 
 This repository contains a carefully crafted prompt designed for an AI debugging assistant to help students debug their Python code. The prompt ensures the AI provides constructive, encouraging, and student-friendly feedback without revealing the correct solution. This README provides a detailed explanation of the problem statement, the solution (the prompt), how it works, and the reasoning behind its design.
@@ -17,12 +17,6 @@ The Python Screening Task 2 requires creating a natural-language prompt for an A
 - **Be General Yet Specific**: Work across various Python coding problems (e.g., syntax errors, logical errors) while providing targeted, context-aware feedback.
 - **Encourage Learning**: Use a supportive tone to foster confidence and teach debugging skills.
 - **Include Reasoning**: Explain the design choices, tone, balance of feedback, and adaptability for different learner levels.
-
-The deliverables include:
-- A single prompt (in plain text or Markdown).
-- A detailed reasoning section answering specific questions about tone, balance, and adaptability.
-- Setup instructions for accessing the prompt.
-- Submission via a public GitHub repository, with the link emailed to https://github.com/shashwat-vikram-singh/python-debugging-promp
 
 ## Solution
 
@@ -79,3 +73,4 @@ This approach identifies the issue, provides a hint, and suggests a debugging st
    ```bash
 
    git clone https://github.com/shashwat-vikram-singh/python-debugging-promp
+
